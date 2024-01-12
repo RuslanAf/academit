@@ -2,3 +2,5 @@ Doing some changes in a develop branch
 Doing some changes in a develop branch again
 -----------------------------------------------
 Doing some remote changes in a develop branch
+-----------------------------------------------
+Doing some local changes in a develop branch one more time
