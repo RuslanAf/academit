@@ -1,2 +1,4 @@
 Doing local changes
 Doing local changes again
+-----------------------------
+Doing remote changes
