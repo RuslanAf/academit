@@ -2,3 +2,5 @@ Doing local changes
 Doing local changes again
 -----------------------------
 Doing remote changes
+-----------------------------
+Doing local changes one more time
